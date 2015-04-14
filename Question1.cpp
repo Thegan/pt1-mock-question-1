@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 	// cout << "Hello, my name is ___________." << endl;
 
 	// 1.3 switch to the "master" branch, uncomment the following four lines and make a commit
-	// string name;
+	string name;
 	// cout << "Please enter your name: ";
 	// cin >> name;
 	// cout << "Hello, " << name << endl;
